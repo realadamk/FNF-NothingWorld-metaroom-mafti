@@ -7,7 +7,7 @@ drag the "assets" folder into the main directory of the game. Replace all assets
 
 ***Current: Release v2.0***
 
-Patch notes: v1.1.0:
+Patch v1.1.0:
 Fixed a weird size thing with some animations
 
 Patch v2.0:
